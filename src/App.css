@@ -37,3 +37,7 @@ input:focus {
   padding: 0px;
   height: 54px;
 }
+
+.errorMessege {
+  color: #FF3D57;
+}
